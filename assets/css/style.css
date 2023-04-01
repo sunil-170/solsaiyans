@@ -57,6 +57,12 @@
     padding: 10px 24px;
 }
 
+.connect_btn:active {
+    box-shadow: 0px 0px 0px;
+    transform: translateY(20%);
+
+}
+
 
 .nav_line {
     background: var(--color-white);
@@ -92,7 +98,7 @@
 
 }
 
-q .red_fire_3 {
+.red_fire_3 {
     top: 534px;
     right: -147px;
 }
@@ -121,6 +127,12 @@ q .red_fire_3 {
     box-shadow: 2px 2px 0px #F4E803;
     border-radius: 24px;
     padding: 10px 24px;
+}
+
+.min_btn:active {
+    box-shadow: 0px 0px 0px;
+    transform: translateY(20%);
+
 }
 
 .nbr_opacity {
